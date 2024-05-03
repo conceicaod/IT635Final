@@ -6,7 +6,7 @@ IT 635 Final
 
 # Usage
 
-MongoDB database that has three collections with schema validation on customer collections. The file is a js file that can be run from the mongo command. It also has data for testing.
+MongoDB database that has three collections with schema validation on customer collections. This database is for a property management database. The file is a js file that can be run from the mongo command. It also has data for testing.
 
 
 # Files
